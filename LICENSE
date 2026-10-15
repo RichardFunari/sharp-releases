@@ -1,21 +1,21 @@
-MIT License
+TERMOS DE USO E LICENÇA DE SOFTWARE PROPRIETÁRIO (EULA)
+Copyright (c) 2026 Sharp Team / Richard Funari. Todos os direitos reservados.
 
-Copyright (c) 2026 Sharp Team / Richard Funari
+1. CONCESSÃO DE LICENÇA:
+Este software é licenciado, não vendido. O desenvolvedor concede a você uma licença pessoal, revogável, não exclusiva e intransferível para instalar e utilizar o software estritamente de acordo com as permissões e planos de ativação adquiridos oficialmente.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. RESTRIÇÕES DE USO:
+É expressamente proibido a qualquer usuário ou terceiro:
+a) Modificar, descompilar, desmontar, realizar engenharia reversa ou tentar extrair o código-fonte do software;
+b) Distribuir, sublicenciar, revender, alugar ou transferir cópias do software ou chaves seriais sem autorização expressa do titular;
+c) Tentar contornar, desativar, burlar ou manipular os mecanismos de autenticação, verificação de hardware (HWID) ou gerenciamento de licenças;
+d) Utilizar o software para qualquer finalidade que viole leis locais ou direitos de terceiros.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. RECURSOS CONDICIONADOS A ATIVAÇÃO:
+O funcionamento integral do aplicativo ou o desbloqueio de funcionalidades exclusivas (como gravação acelerada por GPU, modo clipe, limites expandidos de janelas ou recursos avançados) está condicionado à validação de uma chave de licença válida, ativa e emitida oficialmente pelo titular dos direitos através do sistema oficial de licenciamento (Sharp License Hub).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. PROPRIEDADE INTELECTUAL:
+Todos os direitos de propriedade intelectual, marcas, logotipos, códigos, recursos visuais e tecnologias empregadas neste software pertencem exclusivamente a Richard Funari / Sharp Team.
+
+5. ISENÇÃO DE GARANTIAS E LIMITAÇÃO DE RESPONSABILIDADE:
+O SOFTWARE É FORNECIDO "COMO ESTÁ" (AS-IS), SEM GARANTIAS EXPLÍCITAS OU IMPLÍCITAS DE QUALQUER NATUREZA. EM NENHUM CASO O TITULAR DOS DIREITOS SERÁ RESPONSÁVEL POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS OU CONSEQUENTES DECORRENTES DO USO OU DA IMPOSSIBILIDADE DE USO DESTE SOFTWARE.
