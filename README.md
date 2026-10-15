@@ -1,4 +1,4 @@
-# Sharp Releases 🚀
+# Sharp Releases 
 
 Repositório oficial de distribuição de instaladores e releases binárias para o ecossistema de aplicativos **Sharp**:
 
@@ -7,7 +7,7 @@ Repositório oficial de distribuição de instaladores e releases binárias para
 
 ---
 
-## 📦 Downloads & Instaladores
+## Downloads & Instaladores
 
 Todos os arquivos executáveis (`.exe`) oficiais e assinados estão disponíveis diretamente na aba de **[Releases](https://github.com/RichardFunari/sharp-releases/releases)** deste repositório.
 
@@ -18,11 +18,11 @@ Todos os arquivos executáveis (`.exe`) oficiais e assinados estão disponíveis
 
 ---
 
-## 🔒 Segurança & Verificação
+## Segurança & Verificação
 
 * Todos os instaladores são gerados a partir do código-fonte oficial.
 * Compatíveis com Windows 10 e Windows 11 (64-bit).
-* Atualizações automáticas integradas diretamente nos aplicativos via **Sharp License Hub**.
+* Atualizações automáticas integradas diretamente nos aplicativos.
 
 ---
 
